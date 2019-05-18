@@ -1,0 +1,53 @@
+form {
+    padding: 10px;
+}
+
+.btn-add {
+    margin:20px;
+}
+
+.form-container {
+    margin: 0 auto;
+    width:50%;
+    border: #e2e2e2 1px solid;
+    padding: 20px 40px;
+    border-radius: 4px;
+}
+
+.box-container {
+    margin: 20px;
+    border: #e2e2e2 1px solid;
+    width:450px;
+    height:300px;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.title {
+    margin: 10px 0px 20px 0px;
+}
+
+.description {
+    margin-bottom: 20px;
+}
+
+.category {
+    background-color: #e2e2e2;
+    display: inline;
+    float: left;
+    padding: 5px 20px;
+    border: #d4d4d4 1px solid;
+    border-radius: 4px;
+}
+
+.action .btn-action{
+    background-color: #64afff;
+    border: #5ea5f1 1px solid;
+    padding: 5px 20px;
+    color: #FFF;
+    border-radius: 4px;
+}
+
+.action {
+    float: right;
+}
